@@ -1,0 +1,1 @@
+A .txt file I used to run my Ruby script on.
